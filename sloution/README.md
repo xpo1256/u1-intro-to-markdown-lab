@@ -3,7 +3,8 @@
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
 ## 1. Basic syntax
-```
+
+```js
 const functionName = (params) => {
   // code to be executed
 }
@@ -17,7 +18,7 @@ const functionName = (params) => {
 •⁠  ⁠**Example:**
 
 
-```
+```js
 const greet = (name) => {
   console.log("Hello, " + name + "!");
 }
@@ -30,7 +31,7 @@ const greet = (name) => {
 To execute the function, you call or invoke it by using its name followed by parentheses.
 
 **Example**:
-```
+```js
 greet('Alice'); // Outputs: Hello, Alice!
 
 ```
@@ -39,7 +40,7 @@ greet('Alice'); // Outputs: Hello, Alice!
 Functions can process data input and output a value using the return keyword.
 
 **Example**: 
-```
+```js
 const addNums = (numA, numB) => {
   return numA + numB
 }
@@ -56,4 +57,4 @@ For more information on functions and how they are used in JS, check out the [MD
 [MDN docs]: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions]
 
 
-![some alt text](https://images-ext-1.discordapp.net/external/rXJurhfKF5ASk8LNyVePQKc8MiUiv_iNxR5tWXrMrNo/%3Fq%3D80%26w%3D1374%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1751442188780-c4ba25403392?format=webp&width=1472&height=1104)
+![this is car](https://images-ext-1.discordapp.net/external/rXJurhfKF5ASk8LNyVePQKc8MiUiv_iNxR5tWXrMrNo/%3Fq%3D80%26w%3D1374%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1751442188780-c4ba25403392?format=webp&width=1472&height=1104)
