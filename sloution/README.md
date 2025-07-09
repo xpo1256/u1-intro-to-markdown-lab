@@ -56,5 +56,6 @@ For more information on functions and how they are used in JS, check out the [MD
 
 [MDN docs]: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions]
 
+[details](https://www.rotanastar.ae/ar/?utm_campaign=AR%20-%20Rotana%20World&utm_term=تاجير%20سيارة%20فاخرة%20دبي&utm_source=adwords&utm_medium=ppc&hsa_ver=3&hsa_acc=8666845445&hsa_mt=p&hsa_src=g&hsa_cam=15356230739&hsa_grp=129340925919&hsa_tgt=kwd-3500001&hsa_kw=تاجير%20سيارة%20فاخرة%20دبي&hsa_ad=702397993845&hsa_net=adwords&gad_source=1&gad_campaignid=15356230739&gbraid=0AAAAADC3t9O5NOaza7E3a4bjjswqcCEqc&gclid=CjwKCAjwprjDBhBTEiwA1m1d0i67fgCSfriz8rUDcP1SZqYHaY-cyDPWNdGF3SLxx2XnTnu0esNOIRoCeeMQAvD_BwE)
 
 ![this is car](https://images-ext-1.discordapp.net/external/rXJurhfKF5ASk8LNyVePQKc8MiUiv_iNxR5tWXrMrNo/%3Fq%3D80%26w%3D1374%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1751442188780-c4ba25403392?format=webp&width=1472&height=1104)
